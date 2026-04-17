@@ -17,8 +17,21 @@ A simple Flappy Bird clone implemented using PyOpenGL and GLUT.
 
 ## How to Run
 
-Run the game using:
+Use the project virtual environment to launch the game:
+
+Windows batch:
 ```
+.\run_game.bat
+```
+
+PowerShell:
+```
+.\run_game.ps1
+```
+
+If you prefer manual activation, run:
+```
+& .\.venv\Scripts\Activate.ps1
 python main.py
 ```
 

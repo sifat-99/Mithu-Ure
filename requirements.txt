@@ -1,2 +1,4 @@
 PyOpenGL
 PyOpenGL-accelerate
+Pillow
+pygame
